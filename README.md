@@ -23,7 +23,8 @@
 <h1 align="center"> Working on: </h1>
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=dreampower-checking-bot&bg_color=0920d0&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=nudes-robot&bg_color=1833FF&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=dreampower-checking-bot&bg_color=1833FF&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   <br>
 </p>
