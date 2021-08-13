@@ -22,15 +22,23 @@
 
 <h1 align="center"> Working on: </h1>
 <p align="center">
+  
+  <a href="https://github.com/TimNekk/file-breaker-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=file-breaker-bot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  </a>
+  
   <a href="https://github.com/TimNekk/shorty-nick">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=shorty-nick&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
+  
   <a href="https://github.com/TimNekk/nudes-robot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=nudes-robot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
+  
   <a href="https://github.com/TimNekk/dreampower-checking-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=dreampower-checking-bot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
+  
   <br>
 </p>
 
