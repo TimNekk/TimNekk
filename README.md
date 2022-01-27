@@ -24,11 +24,11 @@
 <p align="center">
   
   <a href="https://github.com/TimNekk/sewing-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=file-breaker-bot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=sewing-tracker&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
   <a href="https://github.com/TimNekk/currency-tracker-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=shorty-nick&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=currency-tracker-bot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
   <br>
