@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1833FF&size=35&center=true&vCenter=true&lines=Hello%2C+World!;I'm+Timofey+Kochetov">
   </a>
 </h1>
-
+ 
 <p align="center">
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=7">
