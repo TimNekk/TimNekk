@@ -16,7 +16,7 @@
   </a>
   <br>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnekk&layout=compact&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true&langs_count=4&exclude_repo=sims-4-mods,Space-Demolition,auto-cleaner"  height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnekk&layout=compact&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true&langs_count=6&exclude_repo=sims-4-mods,Space-Demolition,auto-cleaner"  height="200">
   </a>
 </p>
 
