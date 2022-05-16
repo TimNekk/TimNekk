@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
