@@ -23,12 +23,12 @@
 <h1 align="center"> Working on: </h1>
 <p align="center">
   
-  <a href="https://github.com/TimNekk/pypayment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=pypayment&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  <a href="https://github.com/TimNekk/TGBotTemplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=TGBotTemplate&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
-  <a href="https://github.com/TimNekk/OzonQuantityTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=OzonQuantityTracker&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  <a href="https://github.com/TimNekk/CheapestServiceBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=CheapestServiceBot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
   <br>
