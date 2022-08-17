@@ -27,8 +27,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=TGBotTemplate&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
-  <a href="https://github.com/TimNekk/CheapestServiceBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=CheapestServiceBot&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  <a href="https://github.com/TimNekk/TGMetrics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=TGMetrics&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
   <br>
