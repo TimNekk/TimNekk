@@ -32,6 +32,12 @@
   </a>
   
   <br>
+  
+  <a href="https://github.com/TheCreators/Bario">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCreators&repo=Bario&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  </a>
+  
+  <br>
 </p>
 
 
