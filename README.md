@@ -3,22 +3,30 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1833FF&size=35&center=true&vCenter=true&lines=Hello%2C+World!;I'm+Timofey+Kochetov">
   </a>
 </h1>
- 
+
+
 <p align="center">
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=7">
   </a>
 </p>
 
+
 <p align="center">
+  
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=timnekk&theme=highcontrast&hide_border=true&background=1833FF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=DDDDDD&sideLabels=EBEBEB&dates=EBEBEB">
   </a>
+  
   <br>
+  <br>
+  
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnekk&layout=compact&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true&langs_count=4&exclude_repo=sims-4-mods,Space-Demolition,auto-cleaner"  height="200">
+    <img width="800" src="./profile-3d-contrib/profile-night-view.svg">
   </a>
+  
 </p>
+
 
 <h1 align="center"> Working on: </h1>
 <p align="center">
