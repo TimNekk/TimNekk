@@ -31,12 +31,12 @@
 <h1 align="center"> Working on: </h1>
 <p align="center">
   
-  <a href="https://github.com/TimNekk/TGBotTemplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=TGBotTemplate&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  <a href="https://github.com/TimNekk/pypayment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=pypayment&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
-  <a href="https://github.com/TimNekk/TGMetrics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=TGMetrics&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+  <a href="https://github.com/TimNekk/Gigapixel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=Gigapixel&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
   
   <br>
@@ -53,67 +53,112 @@
 <h1 align="center"> Skills & Tools: </h1>
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://aiogram.dev/">
+    <img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  </a>
+  <a href="https://riverbankcomputing.com/software/pyqt/">
+    <img src="https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  </a>
+  <a href="https://plotly.com/python/">
+    <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+
+  <br>
+
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
-  <a href="https://docs.microsoft.com/ru-ru/cpp/cpp/?view=msvc-160">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
   <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black">
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img src="https://img.shields.io/badge/asp.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/overview/">
+    <img src="https://img.shields.io/badge/wpf-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/winforms/overview/">
+    <img src="https://img.shields.io/badge/winforms-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white">
   </a>
 
   <br>
 
-  <a href="https://wikipedia.org/wiki/HTML5">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="https://java.com/">
+    <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
   </a>
-  <a href="https://wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <a href="https://junit.org/">
+    <img src="https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-
-  <br>
-
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://docs.microsoft.com/ru-ru/contribute/markdown-reference">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <a href="https://gradle.org/">
+    <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white">
   </a>
 
   <br>
 
-  <a href="https://www.docker.com/">
+  <a href="https://docs.microsoft.com/cpp/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://lua.org/">
+    <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+
+  <br>
+
+  <a href="https://docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org/">
+  <a href="https://docs.docker.com/compose/">
+    <img src="https://img.shields.io/badge/compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="https://nginx.com/">
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  </a>
+
+  <br>
+
+  <a href="https://postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
-  <a href="https://www.mysql.com/">
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
+  </a>
+  <a href="https://mysql.com/">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.sqlite.org/">
+  <a href="https://sqlite.org/">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
 
   <br>
 
-  <a href="https://www.photoshop.com/">
+  <a href="https://photoshop.com/">
     <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   </a>
-  <a href="https://www.adobe.com/ru/products/aftereffects.html">
+  <a href="https://adobe.com/products/aftereffects">
     <img src="https://img.shields.io/badge/after effects-%23563D7C.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
   </a>
-  <a href="https://www.adobe.com/ru/products/illustrator.html">
+  <a href="https://www.adobe.com/products/illustrator">
     <img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
   </a>
 </p>
