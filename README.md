@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
   <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black">
+    <img src="https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=333333">
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet">
     <img src="https://img.shields.io/badge/asp.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/HTML">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
