@@ -73,6 +73,24 @@
   </a>
 
   <br>
+  
+  <a href="https://java.com/">
+    <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/sprindg boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  </a>
+  <a href="https://junit.org/">
+    <img src="https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
+  </a>
+  <a href="https://gradle.org/">
+    <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
+  </a>
+
+  <br>
 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -91,18 +109,6 @@
   </a>
   <a href="https://learn.microsoft.com/dotnet/desktop/winforms/overview/">
     <img src="https://img.shields.io/badge/winforms-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white">
-  </a>
-
-  <br>
-
-  <a href="https://java.com/">
-    <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
-  </a>
-  <a href="https://junit.org/">
-    <img src="https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
-  </a>
-  <a href="https://gradle.org/">
-    <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white">
   </a>
 
   <br>
