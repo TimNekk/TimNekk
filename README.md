@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=8">
   </a>
 </p>
 
