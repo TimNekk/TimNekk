@@ -78,16 +78,16 @@
     <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
   </a>
   <a href="https://spring.io/">
-    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/spring web-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/sprindg boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/spring data-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   </a>
   <a href="https://junit.org/">
     <img src="https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
-  </a>
-  <a href="https://gradle.org/">
-    <img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
   </a>
 
   <br>
