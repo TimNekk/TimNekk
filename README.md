@@ -59,17 +59,14 @@
   <a href="https://aiogram.dev/">
     <img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   </a>
-  <a href="https://riverbankcomputing.com/software/pyqt/">
-    <img src="https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <a href="https://docs.celeryq.dev/">
+    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
   </a>
-  <a href="https://plotly.com/python/">
-    <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <a href="https://www.sqlalchemy.org/">
+    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
   </a>
 
   <br>
