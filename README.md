@@ -59,21 +59,18 @@
   </a>
 
   <br>
-  
-  <a href="https://java.com/">
-    <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
+
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white">
   </a>
-  <a href="https://spring.io/">
-    <img src="https://img.shields.io/badge/spring web-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <a href="https://aiogram.dev/">
+    <img src="https://img.shields.io/badge/echo-26A5E4?style=for-the-badge&logo=echo&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/spring cloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=sqlc&logoColor=white">
   </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/spring data-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  </a>
-  <a href="https://junit.org/">
-    <img src="https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
+  <a href="https://docs.celeryq.dev/">
+    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=testify&logoColor=white">
   </a>
 
   <br>
@@ -158,17 +155,10 @@
 <h1 align="center"> Contact me: </h1>
 
 <p align="center">
-  <a href="https://t.me/TimNekk">
+  <a href="https://t.me/TimNekkk">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:herew26@gmail.com">
+  <a href="mailto:tdkochetov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://vk.com/t.kochetov">
-    <img src="https://img.shields.io/badge/VK-%231DA1F2.svg?style=for-the-badge&logo=vk&logoColor=white">
-  </a>
-
-  <br>
-
-
 </p>
