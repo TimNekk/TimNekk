@@ -1,46 +1,11 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=1833FF&size=35&center=true&vCenter=true&lines=Hello%2C+World!;I'm+Timofey+Kochetov">
-  </a>
-</h1>
-
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=8">
-  </a>
-</p>
-
-
-<p align="center">
-  
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=timnekk&theme=highcontrast&hide_border=true&background=1833FF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=DDDDDD&sideLabels=EBEBEB&dates=EBEBEB">
-  </a>
-  
-  <br>
-  <br>
-  
-  <a href="#">
-    <img width="800" src="./profile-3d-contrib/profile-night-view.svg">
-  </a>
-  
-</p>
-
-
-<h1 align="center">Working on</h1>
-<p align="center">
-  
-  <a href="https://github.com/TimNekk/PyPayment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timnekk&repo=PyPayment&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
-  </a>
-
-</p>
-
-
+<div align="center">
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2000&pause=1500&color=1833FF&center=true&multiline=true&width=435&height=85&lines=Timofey+Kochetov;Software+Engineer"/></p>
+  <p><img width="550" src="./profile-3d-contrib/profile-night-view.svg"></p>
+  <p><img src="https://streak-stats.demolab.com?user=TimNekk&theme=highcontrast&hide_border=true&card_width=550&background=1833FF&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&stroke=FFFFFFBE"/></p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=5"></p>
+</div>
 
 <h1 align="center">Skills & Tools</h1>
-
 <div align="center">
   <a href="https://python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://aiogram.dev/"><img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -69,7 +34,6 @@
 </div>
 
 <h1 align="center">Contact me</h1>
-
 <div align="center">
   <a href="https://t.me/TimNekkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:tdkochetov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
