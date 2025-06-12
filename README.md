@@ -3,6 +3,7 @@
   <p><img width="550" src="./profile-3d-contrib/profile-night-view.svg"></p>
   <p><img src="https://streak-stats.demolab.com?user=TimNekk&theme=highcontrast&hide_border=true&card_width=550&background=1833FF&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&stroke=FFFFFFBE"/></p>
   <p><img src="https://github-profile-trophy.vercel.app/?username=timnekk&theme=radical&no-bg=true&no-frame=true&column=5"></p>
+  <p><a href="https://app.daily.dev/timnekk"><img src="https://api.daily.dev/devcards/v2/OW1SDJX4aaaaVNwyMlI1c.png?type=wide&r=e6q" width="550" alt="TimNekk's Dev Card"/></a></p>
 </div>
 
 <h1 align="center">Skills & Tools</h1>
